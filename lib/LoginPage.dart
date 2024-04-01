@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
         ),
         body: const Padding(
 
-          padding: EdgeInsets.all(20.0),
+          padding: EdgeInsets.all(19.0),
           child: LoginForm(),
         ),
       ),
